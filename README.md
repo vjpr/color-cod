@@ -33,7 +33,7 @@ Global color coding.
 ```js
 import colorCod from 'color-cod'
 console.log(colorCod('foo'))
-...
+```
 
 ## License
 
