@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://cdn.rawgit.com/vjpr/color-cod/master/logo.svg" alt="color-cod">
+<img src="https://cdn.rawgit.com/vjpr/color-cod/master/logo.png" alt="color-cod">
 </h1>
 
 > Color code identical strings with the same color.
