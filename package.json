@@ -1,4 +1,28 @@
 {
   "name": "color-cod",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "description": "Color code identical strings with the same color.",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjpr/color-cod.git"
+  },
+  "keywords": [
+    "color",
+    "chalk",
+    "ascii",
+    "log"
+  ],
+  "author": "Vaughan Rouesnel <vrouesnel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjpr/color-cod/issues"
+  },
+  "homepage": "https://github.com/vjpr/color-cod#readme"
 }
