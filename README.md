@@ -35,14 +35,6 @@ import colorCod from 'color-cod'
 console.log(colorCod('foo'))
 ...
 
-## API
-
-`require('colorCod')()`
-
-Create a new coder
-
-``
-
 ## License
 
 [MIT](http://vjpr.mit-license.org)
