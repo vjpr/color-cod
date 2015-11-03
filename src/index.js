@@ -33,6 +33,14 @@ class ColorCode {
     return chalk[color](name)
   }
 
+  getColor(name) {
+    let color = this.colorMap[name]
+    if (!color) {
+      this.get(name)
+    }
+    return this.colorMap[name]
+  }
+
 }
 
 const singleton = new ColorCode
