@@ -20,9 +20,9 @@ const colorNames = [
 
 class ColorCode {
 
-  colorIndex = 0
+  colorIndex = 0;
 
-  colorMap = {}
+  colorMap = {};
 
   get(name) {
     // Assign color.
