@@ -29,7 +29,7 @@
   "homepage": "https://github.com/vjpr/color-cod#readme",
   "devDependencies": {
     "gulp": "gulpjs/gulp.git#4.0",
-    "babelator": "0.2.16",
+    "babelator": "^0.2.20",
     "babel-preset-live": "^0.1.0"
   },
   "pre-push": []
