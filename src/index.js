@@ -1,6 +1,4 @@
-//region Imports
 import chalk from 'chalk'
-//endregion
 
 const colorNames = [
   'red',
